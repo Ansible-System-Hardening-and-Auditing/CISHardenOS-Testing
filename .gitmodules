@@ -1,0 +1,3 @@
+[submodule "roles/Ansible-System-Hardening-and-Auditing.CISHardenOS"]
+	path = roles/Ansible-System-Hardening-and-Auditing.CISHardenOS
+	url = https://github.com/Ansible-System-Hardening-and-Auditing/CISHardenOS.git

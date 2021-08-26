@@ -1,0 +1,7 @@
+---
+- name: Run CIS Bench Hardening of the OS
+  hosts: all,localhost
+  tasks:
+  - name: Execute Role
+    include_role:
+      name: Ansible-System-Hardening-and-Auditing.CISHardenOS
